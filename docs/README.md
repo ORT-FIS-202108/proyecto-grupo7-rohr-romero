@@ -6,6 +6,10 @@ Fecha de entrega: 18-oct-2021
 Creación y uso de repositorios locales y remotos
 
 Comandos Git ejecutados desde terminal y desde el IDE
+- git init
+- git clone
+- git add
+- git commit -m 
 
 ## Versionado
 

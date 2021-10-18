@@ -1,6 +1,6 @@
 ## Proyecto 202108 MisGastos
 
-###Introducción
+### Introducción
 
 Se realizaron dos entrevistas a diferentes personas para conseguir información que nos sea útil en el desarrollo del proyecto. A la vez, se llevó a cabo un cuestionario donde participaron 12 personas, obteniendo una gran variedad de respuestas. Las entrevistas completas y los resultados del cuestionario se pueden encontrar en sus respectivos anexos.
 

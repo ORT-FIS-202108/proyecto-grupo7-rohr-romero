@@ -30,11 +30,13 @@ Uso de ramas separadas de 'main'
 ## Elicitación
 
 ### Evidencia de actividades de investigación
+- Se consiguió información mediante la realización de una entrevista con dos personas y un cuestionario en el cual participó un total de doce personas, recibiendo una variedad de respuestas de gran utilidad a la hora de buscar una solución.
 
 ### Referencias a fuentes de información
+- Se han realizado investigaciones a la hora de hacer tanto el cuestionario como la entrevista, justificando las preguntas de ambas técnicas de elicitación mediante la lectura de sitios serios, dejando los enlaces a estos como anexo en conjunto con las dos entrevistas realizadas y los resultados del cuestionario.
 
 ### Caracterización de usuarios: User Personas
-- Se ha creado una interfaz intuitiva donde se puede informacion de la persona. Un calendario de eventos y hipervinculos para ir a las distintas paginas de bancos
+- Se ha creado una interfaz intuitiva donde se puede informacion de la persona. Un calendario de eventos e hipervinculos para ir a las distintas paginas de bancos.
 
 ### Modelo conceptual del problema
 - Se ha investigado y llegado a la conclusion que el manejo del dinero es mas complejo de lo que uno cree. Hasta la biologia y reacciones quimicas del cerebro de uno mismo puede influenciar nuestro comportamiento.

@@ -55,18 +55,20 @@ Uso de ramas separadas de 'main'
 ## Validación y verificación
 
 ### Verificar la especificación
-- La especifiacion esta acorde a nuestro alcance tecnico. Lo que se pone en duda es la posibilidad de realizar lo planteado en tiempo y forma
+- La especifiación está acorde a nuestro alcance técnico. Lo que se pone en duda es la posibilidad de realizar lo planteado en tiempo y forma.
 
 ### Validar la solución con personas no involucradas en el proyecto
-- Hemos verificado y validado la primera entrega con un ingeniero y hemos aprendido lo importante, y el nivel de detalle que requiere el desarrollo de los user stories/ use cases y su profunda conceccion con el area de elicitacion/ requerimientos.
+- Hemos verificado y validado la primera entrega con un ingeniero y hemos aprendido lo importante, y el nivel de detalle que requiere el desarrollo de los user stories/ use cases y su profunda concexión con el área de elicitación/ requerimientos.
 
 
 ## Reflexión
 
 ### Detalle del trabajo individual
-- 
+
+- Cada uno de nosotros trabajó por su lado, consultando al otro a la hora de tomar alguna decisión importante, realizar cambios vitales en el repositorio o alguna de las otras partes del trabajo, como lo serían las preguntas del cuestionario y la entrevista, detalles en la interfaz de usuario, entre otros. Se puede considerar que fue una buena experiencia para ambos, ya que aprendimos a trabajar en equipo de manera similar a como se hace en el mundo laboral, donde es de gran importancia dividir el trabajo entre los miembros del equipo y que cada uno haga su parte para, a lo último, juntar todo.
 
 ### Técnicas aplicadas y aprendizajes
+
 - 
 
 

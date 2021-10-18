@@ -6,11 +6,17 @@ Fecha de entrega: 18-oct-2021
 ### Creación y uso de repositorios locales y remotos
 
 ### Comandos Git ejecutados desde terminal y desde el IDE
+#### Desde terminal
 - git init
 - git clone
 - git add
 - git commit -m 
 - git log
+- git checkout
+
+#### Desde IDE:
+- Control Shift P 
+- Control S
 
 ## Versionado
 
@@ -42,18 +48,24 @@ Uso de ramas separadas de 'main'
 - No eramos conscientes de lo especifico, y el **nivel de detalle** que se debe tener para hacer esta parte. He verificado con mi hermano (Ingeniero en sistemas), y no podia creer el nivel de detalle que hay que tener para no dejar nada al azar, generar ambiguedades con el equipo de desarrollo y el cliente.
 
 ### Bocetos de IU
+- Bocetos intuitivos con colores e iconos para hacer la IU "user friendly". Aun asi queda la duda hasta que punto se podra recrear con exactitud los bocetos a la hora de desarrollarlo
 
 ## Validación y verificación
 
 ### Verificar la especificación
+- La especifiacion esta acorde a nuestro alcance tecnico. Lo que se pone en duda es la posibilidad de realizar lo planteado en tiempo y forma
 
 ### Validar la solución con personas no involucradas en el proyecto
+- Hemos verificado y validado la primera entrega con un ingeniero y hemos aprendido lo importante, y el nivel de detalle que requiere el desarrollo de los user stories/ use cases y su profunda conceccion con el area de elicitacion/ requerimientos.
+
 
 ## Reflexión
 
 ### Detalle del trabajo individual
+- 
 
 ### Técnicas aplicadas y aprendizajes
+- 
 
 
 

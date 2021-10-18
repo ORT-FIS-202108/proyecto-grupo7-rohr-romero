@@ -10,4 +10,4 @@ Se optó por realizar una interfaz sencilla de entender, dividida en 5 partes:
 
 
 
-<img src="https://imgur.com/a/Ui0tcnT">
+<img src="https://i.imgur.com/MiXm8yI.png">

@@ -69,7 +69,7 @@ Uso de ramas separadas de 'main'
 
 ### Técnicas aplicadas y aprendizajes
 
-- 
+- Se aplicaron las técnicas del cuestionario, las user personas y la entrevista. Todo esto fue respaldado por una investigación que se empleó a la hora de realizar las respectivas preguntas. En el proceso, aprendimos mucho sobre la situación económica actual tanto del país como del mundo, así como de los factores que llevan a las personas a usar su dinero en determinadas cosas, al igual que sobre educación financiera.
 
 
 

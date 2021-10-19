@@ -22,8 +22,8 @@ Fecha de entrega: 18-oct-2021
 
 ### Buenas prácticas de versionado
 
-Uso de ramas separadas de 'main'
-- Para esta primera entrega, como consta de subir archivos de documentacion, hemos decidido operar en la rama main. Para la segunda entrega, crearemos una rama "Develop" donde se hara el merge de todos lo cambios realizados. Una vez "Develop" este OK, se hara merge al main.
+## Uso de ramas separadas de 'main'
+- Para la segunda entrega, crearemos una rama "Develop" donde se hara el merge de todos lo cambios realizados. Una vez "Develop" este OK, se hara merge al main.
 
 ### Resumen de commits y evolución del proyecto
 

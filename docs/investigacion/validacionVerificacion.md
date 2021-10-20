@@ -12,7 +12,10 @@
 ## Walkthrough
 
 **El ingeniero:** 
-- prueba las IU y funcionalidades
+- Sobre la IU: Facil e intuitiva, tamanos de letra apropiadas y diseno "user-friendly"
+- Sobre funcionalidades y prototipacion: "Muy buenas, necesarias para que el usuario tenga una experiencia gratificante gracias al valor aportado por las mismas." Sin embargo, se pone en cuestion el alcance del proyecto.
+- Sobre mapa conceptual: "Ideas y conceptos claros necesarios para definir una solucion adecuada a las necesidades del consumidor"
+
 
 
 

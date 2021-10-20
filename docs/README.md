@@ -13,8 +13,6 @@ Fecha de entrega: 18-oct-2021
 - git commit -m 
 - git log
 - git checkout
-- git reset
-- git restore *
 
 #### Desde IDE:
 - Control Shift P 
@@ -72,6 +70,9 @@ Uso de ramas separadas de 'main'
 ### Técnicas aplicadas y aprendizajes
 
 - Se aplicaron las técnicas del cuestionario, las user personas y la entrevista. Todo esto fue respaldado por una investigación que se empleó a la hora de realizar las respectivas preguntas. En el proceso, aprendimos mucho sobre la situación económica actual tanto del país como del mundo, así como de los factores que llevan a las personas a usar su dinero en determinadas cosas, al igual que sobre educación financiera.
+- Revision de pares y walkthrough: El feedback obtendio fue esencial para poder terminar de desarrollar un producto a medida y bien fundamentados.
+- User stories/ use cases: gracias a la revision de pares, se logro entender la magnitud de la importancia de estas tecnicas a la hora de desarrollar un producto
+- Modelo conceptual: En principio ha costado tomarse y el tiempo de pensar los conceptos relacionados a "MisGastos". Fuimos directo a las funcionalidades sin pensar en un modelo conceptual Entendimos que es clave para definir como y que debe ser tenido en cuenta para la solucion
 
 
 

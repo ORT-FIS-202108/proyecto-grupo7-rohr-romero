@@ -250,7 +250,7 @@ Se guardan correctamente los datos
 
 
 
-Cursos alternativos:
+### Cursos alternativos:
 
 Si el usuario también desea asignar más dinero del que tiene, saltará una excepción
 Si no tiene deudas, fin del caso 2 (fila 2)

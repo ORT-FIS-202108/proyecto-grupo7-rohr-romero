@@ -13,6 +13,8 @@ Fecha de entrega: 18-oct-2021
 - git commit -m 
 - git log
 - git checkout
+- git reset
+- git restore *
 
 #### Desde IDE:
 - Control Shift P 
